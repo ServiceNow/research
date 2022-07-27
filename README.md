@@ -14,8 +14,13 @@ Please note that ServiceNow Research internships through our Visiting Researcher
 
 # ServiceNow Research sites
 [Website](https://www.servicenow.com/research/)
+
 [Blog](https://blogs.servicenow.com/category/servicenow-research.html)
+
 [Twitter](https://twitter.com/ServiceNowRSRCH)
+
 [LinkedIn](https://www.linkedin.com/company/servicenow-research/)
+
 [Instagram](https://www.instagram.com/servicenowresearch/)
+
 [Facebook](https://www.facebook.com/ServiceNowResearch/)
